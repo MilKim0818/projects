@@ -2,7 +2,7 @@
 ### User Engagement with 대용량 데이터 (약 15기가)
 * 기간
   * 2023.03.09 - 2023.03.13 (5일)
-* 목적 : 서비스를 이용하는 유저에 대해 분석하는 방법론(Cohort, Retention 등)과 주요 지표(DAU, ARPU 등)에 대해서 실습하기 위함.
+* 목적 : 서비스를 이용하는 유저에 대해 분석하는 방법론(Cohort, Funnel, Retention 등)과 주요 지표(DAU, ARPU 등)에 대해서 실습하기 위함.
 * [데이터 출처 : eCommerce behavior data from multi category store | Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv)
 
 # 프로젝트 구성원
