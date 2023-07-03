@@ -6,10 +6,10 @@
 * [데이터 출처 : eCommerce behavior data from multi category store | Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv)
 
 # 프로젝트 구성원
-### 개인 프로젝트
+* 개인 프로젝트
 
 # 용어 정리
-### 1. Funnel 분석
+### Funnel 분석
  * 온라인 광고에서 광고에서 구매까지의 여정 또는 모바일 앱에서 사용자 참여로 시작하여 전자 상거래 플랫폼에서 판매로 끝나는 흐름과 같이 정의된 목표로 이어지는 일련의 이벤트 매핑 및 분석 방법.
  * 퍼널 분석은 "특정 사용자 행동에 대한 전환율을 계산하는 효과적인 방법" 임.
 ### AARRR 
