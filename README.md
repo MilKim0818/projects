@@ -1,6 +1,6 @@
 # Projects
 ## 프로젝트 목록
-* [4인팀/게임 데이터 분석](https://github.com/AIS8-WWCD) : 배틀그라운드 e-sports 우승권 예측 머신러닝 분류 모델링
+* [4인팀/게임 데이터 분석]([https://github.com/AIS8-WWCD](https://github.com/AIS8-WWCD/final_project)) : 배틀그라운드 e-sports 우승권 예측 머신러닝 분류 모델링
 * [6인팀/지표 정의와 회귀 분석](https://github.com/MilKim0818/projects/tree/main/coffee-index) : 경제 지표로 활용할 수 있는 커피지수 도출 (서울시 자치구별 커피지수와 부가가치, 재정자립도 변수의 회귀분석)
 * [5인팀/장바구니 예측 모델링](https://github.com/MilKim0818/projects/tree/main/market-basket-prediction) : Instacart 장바구니 예측 머신러닝 분류 모델
 * [개인/e-commerce 비지니스 분석](https://github.com/MilKim0818/projects/tree/main/eCommerce-behavior) : UCI Online-Retail, Open CDP eCommerce behavior data의 Funnel, AARRR, Retention, Cohort, ARPU, MAU 분석 방법 적용
