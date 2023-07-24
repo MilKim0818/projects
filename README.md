@@ -1,5 +1,8 @@
 # Projects
 ## 프로젝트 목록
+* [개인/시계열 데이터 분석]()
+  * 에콰도르 Favorita 매장 판매 시계열 예측
+  * Census 소매업 및 외식업 매출 시계열 분석 
 * [4인팀/게임 데이터 분석](https://github.com/AIS8-WWCD/final_project) : 배틀그라운드 e-sports 우승권 예측 머신러닝 분류 모델링
 * [6인팀/지표 정의와 회귀 분석](https://github.com/MilKim0818/projects/tree/main/coffee-index) : 경제 지표로 활용할 수 있는 커피지수 도출 (서울시 자치구별 커피지수와 부가가치, 재정자립도 변수의 회귀분석)
 * [5인팀/장바구니 예측 모델링](https://github.com/MilKim0818/projects/tree/main/market-basket-prediction) : Instacart 장바구니 예측 머신러닝 분류 모델
