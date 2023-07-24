@@ -1,6 +1,6 @@
 # Projects
 ## 프로젝트 목록
-* [개인/시계열 데이터 분석](https://github.com/MilKim0818/projects/tree/main/time-series-analysis)
+* [개인/시계열 데이터 분석](https://github.com/MilKim0818/projects/tree/main/time-series-analysis)
   * 에콰도르 Favorita 매장 판매 시계열 예측
   * Census 소매업 및 외식업 매출 시계열 분석
 * [개인/e-commerce 비지니스 분석](https://github.com/MilKim0818/projects/tree/main/eCommerce-behavior)
